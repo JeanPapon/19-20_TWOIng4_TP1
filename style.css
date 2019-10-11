@@ -1,0 +1,23 @@
+.toolbar
+{ 
+	
+float: left;
+position: absolute;
+top: -100px;
+right: 0px;
+
+} 
+h1{
+	text-align: center;
+	font-size: 38px;
+	position: absolute;
+top: -100px;
+right: 0px;
+	
+}
+p
+{
+    color: red;
+    text-align: center;
+    font-weight: 900;
+}
